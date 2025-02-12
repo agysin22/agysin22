@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Adam</h1>
+<h1 align="center">Hi , I'm Adam</h1>
 <h3 align="center">A GIS student from Colorado</h3>
 
 - 📫 How to reach me **adgy2587@colorado.edu**
